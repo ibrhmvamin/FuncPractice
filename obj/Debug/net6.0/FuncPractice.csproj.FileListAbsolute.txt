@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FuncPractice\FuncPractice\bin\Debug\net6.0\FuncPractice.exe
+C:\Users\User\source\repos\FuncPractice\FuncPractice\bin\Debug\net6.0\FuncPractice.deps.json
+C:\Users\User\source\repos\FuncPractice\FuncPractice\bin\Debug\net6.0\FuncPractice.runtimeconfig.json
+C:\Users\User\source\repos\FuncPractice\FuncPractice\bin\Debug\net6.0\FuncPractice.dll
+C:\Users\User\source\repos\FuncPractice\FuncPractice\bin\Debug\net6.0\FuncPractice.pdb
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\FuncPractice.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\FuncPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\FuncPractice.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\FuncPractice.AssemblyInfo.cs
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\FuncPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\FuncPractice.dll
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\refint\FuncPractice.dll
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\FuncPractice.pdb
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\FuncPractice.genruntimeconfig.cache
+C:\Users\User\source\repos\FuncPractice\FuncPractice\obj\Debug\net6.0\ref\FuncPractice.dll
